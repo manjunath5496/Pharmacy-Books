@@ -69,15 +69,16 @@ Pharmacy</a></b></li>
                               
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Books/blob/master/pharma(42).pdf" style="text-decoration:none;">Fundamentals of Pharmacognosy and Phytotherapy</a></b></li>
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Books/blob/master/pharma(43).pdf" style="text-decoration:none;">Clinical Skills for Pharmacists: A Patient-Focused Approach</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Books/blob/master/pharma(44).pdf" style="text-decoration:none;">Henke's Med-math: Dosage Calculation, Preparation and Administration</a></b></li>
 
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Books/blob/master/pharma(45).rar" style="text-decoration:none;">Ansel's Pharmaceutical Dosage Forms and Drug Delivery Systems</a></b></li>
+                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Books/blob/master/pharma(46).pdf" style="text-decoration:none;">Comprehensive Pharmacy Review for NAPLEX: Practice Exams, Cases, and Test Prep</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacy-Books/blob/master/pharma(47).rar" style="text-decoration:none;">Basic And Clinical Pharmacology</a></b></li>
 
-
-
-
-
-
-
-                                                             
+                                                            
 </ul>
