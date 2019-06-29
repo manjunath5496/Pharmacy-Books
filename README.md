@@ -17,17 +17,17 @@ Pharmacy</a></b></li>
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(10).pdf" style="text-decoration:none;">Essentials of Organic Chemistry: For students of pharmacy, medicinal chemistry and biological chemistry</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(11).pdf" style="text-decoration:none;">An Archeology of Cryptography: Rewriting
-Plaintext, Encryption, and Ciphertext</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(12).pdf" style="text-decoration:none;">The Arts Of China's Bronze Age: From Shang To  Zhou </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(13).pdf" style="text-decoration:none;">Finding Sand Creek History, Archeology, And The 1864 Massacre Site</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(11).pdf" style="text-decoration:none;">Pharmaceutics – Dosage Form and Design</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(12).pdf" style="text-decoration:none;">Fine Particles in Medicine and Pharmacy </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(13).pdf" style="text-decoration:none;">Further MCQs in Pharmacy Practice</a></b></li> 
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(15).rar" style="text-decoration:none;">Forbidden Archeology: The Hidden History of the Human Race</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(16).pdf" style="text-decoration:none;">Gordon R. Willey
-and American Archaeology</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(14).pdf" style="text-decoration:none;">Lecture Notes in Pharmacy Practice</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(15).pdf" style="text-decoration:none;">Managing Pharmacy Practice: Principles, Strategies, and Systems</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(16).pdf" style="text-decoration:none;">Pharmaceutical Calculations</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(17).pdf" style="text-decoration:none;">Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilisation</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(18).pdf" style="text-decoration:none;">Fingerprints of the Gods: The Evidence of Earth's Lost Civilization </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(17).pdf" style="text-decoration:none;">Oxford Handbook of Clinical Pharmacy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(18).pdf" style="text-decoration:none;">Pharmaceutical Analysis: A Textbook for Pharmacy Students and Pharmaceutical Chemists </a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(19).pdf" style="text-decoration:none;"> Forgotten Times and Spaces: New Perspectives in Paleoanthropological, Paleoetnological and Archeological Studies </a></b></li>
                           
