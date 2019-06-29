@@ -1,12 +1,13 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(1).pdf" style="text-decoration:none;">The Archaeology Coursebook </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(2).pdf" style="text-decoration:none;">Archaeology For Dummies</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(3).pdf" style="text-decoration:none;">Archeology Of The Funeral Mound</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(1).pdf" style="text-decoration:none;">Student Handbook 2017-2018 </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(2).pdf" style="text-decoration:none;">The Pharmacy Technician</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(3).pdf" style="text-decoration:none;">Paediatric Drug Handling</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(4).pdf" style="text-decoration:none;">Archaeology Research Trends</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(5).pdf" style="text-decoration:none;">An Introduction To Plains Apache Archeology — the Dismal River Aspect </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(4).pdf" style="text-decoration:none;">Essentials of Human Physiology for Pharmacy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(5).pdf" style="text-decoration:none;">Chemistry for Pharmacy Students:
+General, Organic and Natural Product Chemistry</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(6).pdf" style="text-decoration:none;">Belzec in Propaganda, Testimonies, Archeological Research, and History</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(6).pdf" style="text-decoration:none;">Clinical Pharmacokinetics Pharmacy Handbook</a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(7).pdf" style="text-decoration:none;">Hudson's Square- A Place Through Time. Archeological Data Recovery on Block 2 of Independence Mall</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(8).pdf" style="text-decoration:none;">Dam Projects and the Growth of American Archaeology: The River Basin Surveys and the Interagency Archeological Salvage Program</a></b></li>
