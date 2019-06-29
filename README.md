@@ -9,11 +9,13 @@ General, Organic and Natural Product Chemistry</a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(6).pdf" style="text-decoration:none;">Clinical Pharmacokinetics Pharmacy Handbook</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(7).pdf" style="text-decoration:none;">Hudson's Square- A Place Through Time. Archeological Data Recovery on Block 2 of Independence Mall</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(8).pdf" style="text-decoration:none;">Dam Projects and the Growth of American Archaeology: The River Basin Surveys and the Interagency Archeological Salvage Program</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(9).pdf" style="text-decoration:none;">A Dictionary of Archaeology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(7).pdf" style="text-decoration:none;">Communication Skills in Pharmacy Practice
+</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(8).pdf" style="text-decoration:none;">Drug Misuse and Community
+Pharmacy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(9).pdf" style="text-decoration:none;">Essential Microbiology for Pharmacy and Pharmaceutical Science</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(10).pdf" style="text-decoration:none;">Field Archaeology: An Introduction</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(10).pdf" style="text-decoration:none;">Essentials of Organic Chemistry: For students of pharmacy, medicinal chemistry and biological chemistry</a></b></li>  
         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeology-Books/blob/master/arche(11).pdf" style="text-decoration:none;">An Archeology of Cryptography: Rewriting
 Plaintext, Encryption, and Ciphertext</a></b></li>
